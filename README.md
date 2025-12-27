@@ -21,7 +21,6 @@ This project implements a **Cascading Router Architecture**:
 * **Frontend:** Streamlit
 
 ## 📸 Screenshots
-<img width="1761" height="924" alt="Image" src="https://github.com/user-attachments/assets/002b0545-b309-4560-aeff-bedd021b3bab" />
 
 <img width="1763" height="892" alt="Image" src="https://github.com/user-attachments/assets/b35aa7c1-c310-4afa-96d5-70fe4fe8cdf1" />
 
